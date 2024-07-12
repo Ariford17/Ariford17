@@ -1,14 +1,15 @@
 ### Hi there 👋
 ## I'm Sein Myo Htet
-  
+
+   I am full-stack devleoper
 <!--
 **Ariford17/Ariford17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something
-- 🌱 I’m currently learning C#, Go
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning Spring Boot, C#, Go
+- 👯 I’m looking to collaborate on with others
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
