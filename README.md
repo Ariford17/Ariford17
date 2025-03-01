@@ -1,4 +1,4 @@
-### Hi there 👋
+d### Hi there 👋
 
 ## I'm Sein Myo Htet
 
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=Ariford17&show_icons=true&theme=tokyonight" />
+
 <div id="container>
 
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src ="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img src= "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-
+</div>
 🧑‍💻 Developer/Forums
 
 🎓 Education
